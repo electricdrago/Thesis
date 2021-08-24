@@ -1,0 +1,2 @@
+Player Id,Tree with gini and max_depth 4,Tree with entropy and max_depth 4,Tree with gini and max_depth 3,Tree with entropy and max_depth 3,Polynomial  Division SVC,RBF Division SVC,Random Forest with gini (3 trees),Random Forest with gini (10 trees),Random Forest with entropy (3 trees),Random Forest with entropy (10 trees)
+all,0.2893172031986877,0.27106827968013125,0.28685667418494976,0.27106827968013125,0.2878818946073406,0.30695099446380975,0.283370924748821,0.28808693869181873,0.29013737953660035,0.29300799671929467
